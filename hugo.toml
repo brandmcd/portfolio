@@ -1,0 +1,4 @@
+baseURL = "https://brandmcd.github.io/"
+theme = "yassi"
+languageCode = 'en-us'
+title = 'My New Hugo Site'
